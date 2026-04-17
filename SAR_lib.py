@@ -11,7 +11,7 @@ import nltk
 from SAR_semantics import SentenceBertEmbeddingModel, BetoEmbeddingCLSModel, BetoEmbeddingModel, SpacyStaticModel
 
 
-## UTILIZAR PARA LA AMPLIACION
+## UTILIZAR PARA LA AMPLIACION hola
 # Selecciona un modelo semántico
 SEMANTIC_MODEL = "SBERT"
 #SEMANTIC_MODEL = "BetoCLS"
